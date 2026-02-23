@@ -1,0 +1,10 @@
+node_modules
+dist
+data
+src
+.github
+.env
+.git
+*.md
+index.html
+vite.config.js
